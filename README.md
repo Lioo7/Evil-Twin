@@ -1,4 +1,4 @@
-# Evil-Twin-Project
+# Evil-Twin
 
 ## introduction
 
@@ -17,7 +17,8 @@ This type of attack may be used to steal the passwords of unsuspecting users, ei
 Evil-Twin attack includes:<br>
 Disconnecting the victim from the existing network, uploading the malicious network (the evil twin) and activating CaptivePortal, connecting the victim to the malicious network and its activities, obtaining the information that is the purpose of the attack.
 
-In addition, this project contains a defense tool that prevents this attack and keeps your device safe.
+In addition, this 
+contains a defense tool that prevents this attack and keeps your device safe.
 
 ## Requirements
 1. Two network interfaces, which both support monitor mode.
@@ -28,7 +29,7 @@ In addition, this project contains a defense tool that prevents this attack and 
 ## How to run the project
 1. Clone the repository
   ```sh
-  git clone https://github.com/LiorAtiya/Evil-Twin-Project.git
+  git clone https://github.com/Lioo7/Evil-Twin.git
   ```
 2. Install Scapy
   ```sh
