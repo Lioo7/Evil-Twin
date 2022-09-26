@@ -5,6 +5,8 @@
 An Evil Twin is a fraudulent Wi-Fi access point that appears to be legitimate but is set up to eavesdrop on wireless communications.               
 This type of attack may be used to steal the passwords of unsuspecting users, either by monitoring their connections or by phishing.
 
+<p align='center'><a href="#"><img src="https://imgur.com/i1LK4OC.png"  width="500" height="300" /></a></p>
+
 ## Tool details
 
 1. Scan a WLAN in the environment for a minute and view the various networks discovered.
@@ -15,7 +17,7 @@ This type of attack may be used to steal the passwords of unsuspecting users, ei
 Evil-Twin attack includes:<br>
 Disconnecting the victim from the existing network, uploading the malicious network (the evil twin) and activating CaptivePortal, connecting the victim to the malicious network and its activities, obtaining the information that is the purpose of the attack.
 
-In addition, there is a defense tool that detects the existence of an attack on the victim and prevents the success of the attack.
+In addition, this project contains a defense tool that prevents this attack and keeps your device safe.
 
 ## Requirements
 1. Two network interfaces, which both support monitor mode.
