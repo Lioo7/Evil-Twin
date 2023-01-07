@@ -1,4 +1,6 @@
 # Evil-Twin
+[![Scapy](https://img.shields.io/badge/scapy-latest-yellow)](https://scapy.net/)
+[![Python](https://img.shields.io/badge/python-3.6+-3670A0)](https://www.python.org/)
 
 ## introduction
 
